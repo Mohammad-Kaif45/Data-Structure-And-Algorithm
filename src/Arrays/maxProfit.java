@@ -1,5 +1,5 @@
 package Arrays;
-
+// Buy and sell
 public class maxProfit {
     public static int buyAndSell(int[] nums){
         int n = nums.length;
