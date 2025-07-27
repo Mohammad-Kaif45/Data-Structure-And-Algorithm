@@ -2,7 +2,11 @@ package Arrays;
 import java.util.Arrays;
 public class TwoSum {
         public static int[] findTwoSum(int[] arr,int target) {
+<<<<<<< HEAD
         int n = arr.length;
+=======
+        int n = arr.length; 
+>>>>>>> be95cf2e7c8b619d33bd5dc008e8a9e83e4c2f45
         int[] ans = new int[2];
         ans[0] = ans[1] = -1;
         for(int i = 0; i < n; i++) {
