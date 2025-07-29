@@ -21,6 +21,7 @@ public class K_thSmallestInMatrix {
         // Return kth smallest
         return list.get(k - 1);
     }
+    
     public static void main(String[] args) {
         int[][] matrix = {{1,5,9},{10,11,13},{12,13,15}};
         System.out.println(kthSmallest(matrix,8));
