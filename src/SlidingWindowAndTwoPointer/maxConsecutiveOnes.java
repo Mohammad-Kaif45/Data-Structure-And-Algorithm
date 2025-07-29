@@ -1,7 +1,7 @@
 package SlidingWindowAndTwoPointer;
 
 public class maxConsecutiveOnes {
-    public static int solve(int[] nums,int k){
+    public static int solve(int[] nums,int k){ 
         int maxLen = 0;
         int n = nums.length;
         for(int i = 0; i < n; i++){
