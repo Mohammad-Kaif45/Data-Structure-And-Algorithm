@@ -2,7 +2,7 @@ package SlidingWindowAndTwoPointer;
 
 public class BinarySubArrayWithSum { 
     public static int numSubarrayWithSum(int[] nums,int goal){
-        int n = nums.length;
+        int n = nums.length; 
         int count = 0;
         int left = 0;
         int right = 0;
