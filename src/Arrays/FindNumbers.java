@@ -16,7 +16,7 @@ public class FindNumbers {
         return list;
     }
     public static void main(String[] args) {
-        int[] nums = {1,2,3,4,5,5,7,8};
+        int[] nums = {1,2,3,4,5,5,7,8}; 
         System.out.println(findNumbers(nums));
     }
 }
