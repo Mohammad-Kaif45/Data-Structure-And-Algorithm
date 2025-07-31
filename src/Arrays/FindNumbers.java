@@ -6,7 +6,7 @@ public class FindNumbers {
     public static ArrayList findNumbers(int[] nums){ 
         ArrayList<Integer> list = new ArrayList<>();
         int n = nums.length;
-        for(int i = 1; i < n; i++){
+        for(int i = 1; i < n; i++){ 
             if(nums[i] == nums[i - 1]){
                 list.add(nums[i]);
                 list.add(nums[i] + 1);
