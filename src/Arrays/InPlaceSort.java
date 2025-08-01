@@ -3,7 +3,7 @@ package Arrays;
 public class InPlaceSort {
     public static void sortInPlace(int[] nums){
         int n = nums.length;
-        int cnt0 = 0;
+        int cnt0 = 0; 
         int cnt1 = 0;
         int cnt2 = 0;
         for(int i = 0; i <n; i++){
