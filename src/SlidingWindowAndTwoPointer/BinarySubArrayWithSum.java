@@ -11,7 +11,7 @@ public class BinarySubArrayWithSum {
             sum += nums[right];
             count++;
             while(sum > goal){
-                sum -= nums[left];
+                sum -= nums[left]; 
                 left++;
             }
             count = Math.max(count,right - left + 1);
