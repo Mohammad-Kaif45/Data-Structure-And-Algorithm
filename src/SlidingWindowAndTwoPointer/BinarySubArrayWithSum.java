@@ -1,4 +1,4 @@
-package SlidingWindowAndTwoPointer;
+package SlidingWindowAndTwoPointer; 
 
 public class BinarySubArrayWithSum { 
     public static int numSubarrayWithSum(int[] nums,int goal){
