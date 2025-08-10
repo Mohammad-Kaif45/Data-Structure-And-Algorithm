@@ -1,7 +1,7 @@
 package String;
 
 public class FindNumberOfPalindromicSubSequence {
-    public static int findSubSequence(String s){
+    public static int findSubSequence(String s){ 
         int cnt = s.length();
         return cnt;  
 
