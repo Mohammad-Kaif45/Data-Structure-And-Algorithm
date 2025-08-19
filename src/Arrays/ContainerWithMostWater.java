@@ -5,7 +5,7 @@ public class ContainerWithMostWater {
         int n = nums.length;
         int left = 0;
         int right = n - 1;
-        int maxWater = 0;
+        int maxWater = 0; 
         while(left < right){ 
             int h = Math.min(nums[left],nums[right]);
             int width = right - left;  
