@@ -3,7 +3,7 @@
 Welcome to my **Data Structures and Algorithms (DSA)** repository!   
 This repo contains a collection of coding problems, solutions, and notes  that I’m solving and practicing to strengthen my DSA skills.  
 
-# DSA Practice – Arrays
+# DSA Practice – Arrays 
  
 This repository contains Java solutions to various **Data Structures and Algorithms (DSA)** problems based on **Arrays**. Each problem is implemented with clean code, appropriate logic, and comments to help understand the solution clearly.  
  
