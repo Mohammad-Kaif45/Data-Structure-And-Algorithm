@@ -4,7 +4,7 @@ import java.util.ArrayList;
 
 public class FindNumbers {
     public static ArrayList findNumbers(int[] nums){  
-        ArrayList<Integer> list = new ArrayList<>();
+        ArrayList<Integer> list = new ArrayList<>(); 
         int n = nums.length;
         for(int i = 1; i < n; i++){ 
             if(nums[i] == nums[i - 1]){
