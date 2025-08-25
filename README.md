@@ -8,7 +8,7 @@ This repo contains a collection of coding problems, solutions, and notes  that I
 This repository contains Java solutions to various **Data Structures and Algorithms (DSA)** problems based on **Arrays**. Each problem is implemented with clean code, appropriate logic, and comments to help understand the solution clearly.   
    
 ---
-
+ 
 ## 📂 Problems Covered
 
 ### ✅ 1. ContainerWithMostWater.java
